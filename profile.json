@@ -1,0 +1,8 @@
+{
+  "firstName" : "John",
+  "lastName" : "James",
+  "displayHandle" : "Jimmy55",
+  "posts" : ["Just woke up", "Breakfast Now", "Football game later" ],
+  "age" : "20",
+  "active" : true,
+}
